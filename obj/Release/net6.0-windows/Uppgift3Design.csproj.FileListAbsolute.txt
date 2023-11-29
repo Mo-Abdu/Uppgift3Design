@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Uppgift3Design\bin\Release\net6.0-windows\Uppgift3Design.exe
+C:\Users\User\source\repos\Uppgift3Design\bin\Release\net6.0-windows\Uppgift3Design.deps.json
+C:\Users\User\source\repos\Uppgift3Design\bin\Release\net6.0-windows\Uppgift3Design.runtimeconfig.json
+C:\Users\User\source\repos\Uppgift3Design\bin\Release\net6.0-windows\Uppgift3Design.dll
+C:\Users\User\source\repos\Uppgift3Design\bin\Release\net6.0-windows\Uppgift3Design.pdb
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\Uppgift3Design.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\Inlämningsuppgift3Grafik.Form1.resources
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\Uppgift3Design.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\Uppgift3Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\Uppgift3Design.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\Uppgift3Design.AssemblyInfo.cs
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\Uppgift3Design.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\Uppgift3Design.dll
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\refint\Uppgift3Design.dll
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\Uppgift3Design.pdb
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\Uppgift3Design.genruntimeconfig.cache
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\ref\Uppgift3Design.dll
