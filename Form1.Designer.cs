@@ -41,6 +41,7 @@
             saveButton = new Button();
             loadButton = new Button();
             removeButton = new Button();
+            openForm2Button = new Button();
             SuspendLayout();
             // 
             // personList
@@ -156,11 +157,22 @@
             removeButton.UseVisualStyleBackColor = true;
             removeButton.Click += removeButton_Click;
             // 
+            // openForm2Button
+            // 
+            openForm2Button.Location = new Point(189, 356);
+            openForm2Button.Name = "openForm2Button";
+            openForm2Button.Size = new Size(112, 34);
+            openForm2Button.TabIndex = 13;
+            openForm2Button.Text = "Go to Form2";
+            openForm2Button.UseVisualStyleBackColor = true;
+            openForm2Button.Click += openForm2Button_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(openForm2Button);
             Controls.Add(removeButton);
             Controls.Add(loadButton);
             Controls.Add(saveButton);
@@ -195,5 +207,6 @@
         private Button saveButton;
         private Button loadButton;
         private Button removeButton;
+        private Button openForm2Button;
     }
 }

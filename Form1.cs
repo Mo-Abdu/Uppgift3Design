@@ -1,17 +1,15 @@
 using System.IO;
+using System.Windows.Forms;
 
 namespace InlämningsUppgift3Grafik
 {
     public partial class Form1 : Form
     {
-        List<Person> persons = new List<Person>();
+       private List<Person> persons = new List<Person>();
         public Form1()
         {
             InitializeComponent();
         }
-
-    
-
         private void addPersonButton_Click(object sender, EventArgs e)
         {
             string name = nameBox.Text;
@@ -64,28 +62,21 @@ namespace InlämningsUppgift3Grafik
                         Person person = new Person(name, living, school, jobb);
                         persons.Add(person);
                         personList.Items.Add(person.Name);
-                        personList.Items.Add(person.Living);
-                        personList.Items.Add(person.School);
-                        personList.Items.Add(person.Job);
-
+                       
 
                         line = sr.ReadLine();
                     }
-
-
-
                 }
             }
 
         }
-
-
         private void removeButton_Click(object sender, EventArgs e)
         {
-
             int index = personList.SelectedIndex;
             if (index > -1)
             {
+                
+                
                 Person person = persons[index];
                 persons.RemoveAt(index);
                 personList.Items.RemoveAt(index);
@@ -93,8 +84,24 @@ namespace InlämningsUppgift3Grafik
 
         }
 
+        private void openForm2Button_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2(persons,this);
+            form2.UpdatePersons += UpdatePersonsInForm1;
+            form2.ShowDialog();
+        }
+        private void UpdatePersonsInForm1(List<Person> updatedPersons)
+        {
+            persons = updatedPersons;
+        }
 
-
-
+        public void RemoveFromList(int selectedIndex)
+       {
+         if (selectedIndex >= 0 && selectedIndex < persons.Count) 
+            {
+              persons.RemoveAt(selectedIndex);
+                personList.Items.RemoveAt(selectedIndex);
+            }
+       }
     }
 }

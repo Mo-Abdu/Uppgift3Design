@@ -3,7 +3,6 @@ C:\Users\User\source\repos\Uppgift3Design\bin\Release\net6.0-windows\Inlämnings
 C:\Users\User\source\repos\Uppgift3Design\bin\Release\net6.0-windows\InlämningsUppgift3Grafik.runtimeconfig.json
 C:\Users\User\source\repos\Uppgift3Design\bin\Release\net6.0-windows\InlämningsUppgift3Grafik.dll
 C:\Users\User\source\repos\Uppgift3Design\bin\Release\net6.0-windows\InlämningsUppgift3Grafik.pdb
-C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\InlämningsUppgift3Grafik.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\InlämningsUppgift3Grafik.Form1.resources
 C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\InlämningsUppgift3Grafik.csproj.GenerateResource.cache
 C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\InlämningsUppgift3Grafik.GeneratedMSBuildEditorConfig.editorconfig
@@ -15,3 +14,5 @@ C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\refint\Inl�
 C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\InlämningsUppgift3Grafik.pdb
 C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\InlämningsUppgift3Grafik.genruntimeconfig.cache
 C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\ref\InlämningsUppgift3Grafik.dll
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\InlämningsUppgift3Grafik.sourcelink.json
+C:\Users\User\source\repos\Uppgift3Design\obj\Release\net6.0-windows\InlämningsUppgift3Grafik.Form2.resources

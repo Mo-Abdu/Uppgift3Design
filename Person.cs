@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 namespace InlämningsUppgift3Grafik
 {
     
-    internal class Person
+    public class Person
     {
         List<Person> persons = new List<Person>();
+        
 
 
         public string Name { get; set; }
